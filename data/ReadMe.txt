@@ -1,0 +1,5 @@
+这里的psepssmlabelsmote是指正负样本平衡之后的数据标签
+psepssm_smote是平衡之后的数据；
+
+psepssm.mat是正负样本未平衡的数据，在服务器中被命名为psepssm_gpcr.mat
+label12.mat是数据标签1和2，用于测试Wcs代码用的,  在服务器中被命名为label12_gpcr.mat
